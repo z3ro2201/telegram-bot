@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/z3ro2201/telegram-bot/issues"
   },
-  "homepage": "https://github.com/z3ro2201/telegram-bot#readme"
+  "homepage": "https://github.com/z3ro2201/telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0"
+  }
 }
